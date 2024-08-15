@@ -1,4 +1,4 @@
-FROM node:20.6.1
+FROM node:20.16
 
 RUN npm install -g npm@latest
 
