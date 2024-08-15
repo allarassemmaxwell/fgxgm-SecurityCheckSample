@@ -1,4 +1,4 @@
-FROM node:20.16
+FROM node:22.5.1-slim
 
 RUN npm install -g npm@latest
 
